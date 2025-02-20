@@ -1,7 +1,4 @@
-/**
- * scraper-javascript.js
- * To run this script, copy and paste `node scraper-javascript.js` in the terminal
- */
+
 
 const cheerio = require('cheerio');
 
