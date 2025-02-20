@@ -1,7 +1,4 @@
-/**
- * scraper-typescript.ts
- * To run this script, copy and paste `npx ts-node scraper-typescript.ts` in the terminal
- */
+
 
 import * as cheerio from "cheerio";
 
